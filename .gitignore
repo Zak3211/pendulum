@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Datasets (MNIST_Classification.py re-downloads these)
+data/
+
+# Trained models / checkpoints
+*.pkl
+Neural Networks/MNIST_Classification.json
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
